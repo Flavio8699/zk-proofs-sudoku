@@ -27,7 +27,7 @@ It contains example for 4 Sudoku grid sizes:
    npm run test
    ```
 
-6. Get the required PTAU files from [here](https://github.com/iden3/snarkjs/blob/master/README.md) and place them in the folder _ptau/_
+6. Get the required PTAU files from [here](https://github.com/iden3/snarkjs/blob/master/README.md#7-prepare-phase-2) and place them in the folder _ptau/_
 
 7. Choose between *groth16*, *plonk* and *fflonk* and execute the proof
    ```shell
